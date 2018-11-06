@@ -2,16 +2,6 @@
 from bs4 import BeautifulSoup
 import requests,ssl,urllib
 
-
-# proxy = {
-# "http":"",
-# "http":"",
-# "http":"",
-# "http":"",
-# "http":"",
-# "http":"",
-#          }
-
 class LJNetWorker(object):
 
     #初始化
